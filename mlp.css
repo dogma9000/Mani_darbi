@@ -1,0 +1,61 @@
+body{
+	background-image: url("http://p1.pichost.me/i/23/1456547.jpg") ;
+	background-color: #000000;
+}
+.head{
+	background-color: #CC0066;
+	margin: 0 auto;
+	margin-top: -20px;
+	border-bottom: 5px outset #CC0066;
+	border-right: outset #CC0066;
+	width: 954px;
+
+}
+.main{
+	background-color: #FFFCCC;
+	margin: 0 auto;
+	width: 950px;
+	margin-bottom: 30px;
+	border-style: outset;
+    border-color: #98bf21;
+}
+.text{
+	padding: 10pt;
+	padding-right: 10pt;
+}
+h1{
+	font-size: 50pt;
+	font-family: tahoma;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10pt;
+}
+h2{
+	font-size: 30pt;
+	font-family: serif;
+	font-weight: bold;
+	text-align: center;
+}
+p{
+	font-size: 16pt;
+	font-family: serif;
+	text-align: justify;
+}
+#imgs{
+	padding-right: 20pt;
+	margin: 0 auto;
+	text-align: center;
+}
+#imgs img{
+	margin-left: 10pt;
+	margin-right: 10pt;
+}
+#dld{
+	padding-right: 20pt;
+	margin: 0 auto;
+	text-align: center;
+}
+#dld{
+	margin-left: 10pt;
+	margin-right: 10pt;
+}
